@@ -13,17 +13,17 @@
     - scorro la lista delle pizze 
      - leggo gli ingredienti di ogni pizza
      - SE trovo una pizza con prosciutto e funghi
-      -  mi fermo 
+        -  mi fermo 
      - ALTRIMENTI 
-      - continuo 
+        - continuo 
 - Ordino la pizza  
     - cerco il numero della pizzeria sul pdf
     - digito il numero della pizzeria sul tastierino
     - chiamo
      - SE la pizzeria non risponde entro 3 tentativi 
-      - scelgo un altra pizzeria 
+        - scelgo un altra pizzeria 
      - ALTRIMENTI
-      - ordino la pizza
+        - ordino la pizza
 
 - RIcevo la consegna 
     - mi dirigo verso la porta
